@@ -102,7 +102,7 @@ lib/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/TaskFlowAI.git
+   git clone https://github.com/rafaelwww07-ios/TaskFlowAI.git
    cd TaskFlowAI
    ```
 
