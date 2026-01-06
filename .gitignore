@@ -44,7 +44,6 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 
-# Demo videos (optional - uncomment if you want to exclude large video files)
-# /demo_video/*.mp4
-# /demo_video/*.mov
-# /demo_video/*.avi
+# Demo videos and recording scripts
+/demo_video/
+/scripts/
