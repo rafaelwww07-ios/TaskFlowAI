@@ -45,8 +45,9 @@
 
 ## 📸 Screenshots
 
+![TaskFlow AI Screenshots](./TaskFlowAI.png)
+
 <div align="center">
-  <img src="TaskFlowAI.png" alt="TaskFlow AI Screenshots" width="100%"/>
   <p><em>TaskFlow AI - Screenshots of the application</em></p>
 </div>
 
