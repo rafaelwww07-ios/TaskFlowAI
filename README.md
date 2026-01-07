@@ -46,7 +46,8 @@
 ## 📸 Screenshots
 
 <div align="center">
-  <p><em>Screenshots coming soon...</em></p>
+  <img src="TaskFlowAI.png" alt="TaskFlow AI Screenshots" width="100%"/>
+  <p><em>TaskFlow AI - Screenshots of the application</em></p>
 </div>
 
 ---
